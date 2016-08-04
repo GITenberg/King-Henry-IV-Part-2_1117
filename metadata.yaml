@@ -1,0 +1,31 @@
+_repo: King-Henry-IV-Part-2_1117
+_version: 0.0.1
+alternative_title: King Henry IV, Part 2
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: World Library
+gutenberg_issued: '1997-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1117'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Great Britain -- History -- Henry IV, 1399-1413 -- Drama'
+- !lcc 'PR'
+- !lcsh 'Henry IV, King of England, 1367-1413 -- Drama'
+- !lcsh 'Historical drama'
+- GITenberg
+title: Second Part of King Henry IV
+url: http://www.gutenberg.org/ebooks/1117
